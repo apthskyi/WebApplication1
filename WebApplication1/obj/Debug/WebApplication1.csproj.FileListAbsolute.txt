@@ -58,3 +58,7 @@ D:\Web\WebApplication1\WebApplication1\bin\zh-Hans\System.Web.WebPages.Razor.res
 D:\Web\WebApplication1\WebApplication1\obj\Debug\WebApplication1.csprojResolveAssemblyReference.cache
 D:\Web\WebApplication1\WebApplication1\obj\Debug\WebApplication1.dll
 D:\Web\WebApplication1\WebApplication1\obj\Debug\WebApplication1.pdb
+D:\Web\WebApplication1\WebApplication1\bin\EntityFramework.dll
+D:\Web\WebApplication1\WebApplication1\bin\EntityFramework.SqlServer.dll
+D:\Web\WebApplication1\WebApplication1\bin\EntityFramework.xml
+D:\Web\WebApplication1\WebApplication1\bin\EntityFramework.SqlServer.xml
